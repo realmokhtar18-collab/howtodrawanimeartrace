@@ -1,0 +1,24 @@
+{
+  "tabs": ["draw", "favorite", "profile", "learning"],
+  "bottomPadding": 28,
+  "horizontalPadding": 20,
+  "topPadding": 0,
+  "header": {
+    "drawTitle": "Trace Drawing AR Drawing",
+    "tabTitles": {
+      "draw": "Draw",
+      "favorite": "Favorite",
+      "profile": "Profile",
+      "learning": "Learning"
+    },
+    "horizontalPadding": 20,
+    "verticalPadding": 14,
+    "topPadding": 28,
+    "titleSideInset": 70,
+    "titleFontSize": 22,
+    "showSettingsButton": true,
+    "showTrailingButton": true,
+    "settingsSymbol": "gearshape.fill",
+    "trailingSymbol": "hand.draw.fill"
+  }
+}
